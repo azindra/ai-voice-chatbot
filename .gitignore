@@ -1,0 +1,7 @@
+vectorstore/
+documents/
+__pycache__/
+*.pyc
+*.mp3
+*.pdf
+.env
