@@ -67,6 +67,8 @@ python app.py
 
 ## 🎯 How to Use
 
+WORKING MODEL VEDIO LINK : https://youtu.be/dnDv8e2ZPE4?si=zm44z6bQNKABrlqk
+
 1. **Normal Chat** — Click mic button and speak
 2. **Document Q&A** — Upload a PDF → Click Process → Ask questions about it
 3. **Toggle RAG** — Switch between document mode and normal chat mode
@@ -77,12 +79,14 @@ python app.py
 - 🏥 Healthcare document assistant (like Prodoc.AI)
 - 📋 Resume/document Q&A
 - 🤖 General AI voice assistant
+  
 
 ## 👨‍💻 Author
 
 **Your Name**
 - GitHub: [G ASHIKA ](https://github.com/azindra)
-  
+
+
 
 ## 📄 License
 MIT License
